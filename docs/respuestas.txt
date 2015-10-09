@@ -1,1 +1,3 @@
 Trabajo en equipo con git
+
+La compilación es el proceso de traducir un programa en código fuente a programa en código objeto, mientras que la interpretación necesita de un programa que traduzca en directo el código fuente escrito a instrucciones de la plataforma en la que se ejecutan
