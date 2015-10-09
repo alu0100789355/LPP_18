@@ -1,3 +1,8 @@
 Trabajo en equipo con git
 
-La compilación es el proceso de traducir un programa en código fuente a programa en código objeto, mientras que la interpretación necesita de un programa que traduzca en directo el código fuente escrito a instrucciones de la plataforma en la que se ejecutan
+La compilación es el proceso de traducir un programa en código fuente a programa en código objeto, mientras que la interpretación necesita de un programa que traduzca en directo el código fuente escrito a instrucciones de la plataforma en la que se ejecutan.
+
+La principal diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb es que están en lenguajes de programación distintos. El .sh está en lenguaje BASH, mientras que el .rb, está hecho en RUBY.
+Además, tienen permisos distintos: el .rb no tiene permiso de ejecución mientras que el .sh si lo tiene.
+
+El significado de la primera línea del fichero Helloworld.sh es indicar la shell con la que se va a ajecutar el programa, en este caso, es la /bin/sh.
